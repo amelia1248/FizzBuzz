@@ -333,7 +333,7 @@ commit, push steps you learned in lab this week).
 We're looking for non-negative multiples of 3 or 5. The first four are 3, 5, 6, and 9, so there are
 four below 10. How many are below 1000?
 
-- [ ] In `Multiples.java`, write a main method that **prints** how many multiples of 3 or 5 there are below 1000.
+- [X] In `Multiples.java`, write a main method that **prints** how many multiples of 3 or 5 there are below 1000.
 Add this file to your project, commit, and push. Check your repo on GitHub to confirm your changes were pushed successfully.
 
 Tip: Just like with `psvm`, you can start typing `sout` and then press Enter to generate `System.out.println();` in IntelliJ.
@@ -344,7 +344,7 @@ working code on MarkUs.
 
 ## Task 5: Reduce a number to 0
 
-- [ ] Right-click on `src` and select `New —> Java Class`. Name it `Reduce`.
+- [X] Right-click on `src` and select `New —> Java Class`. Name it `Reduce`.
 
 Starting with a number n, if n is even divide it by 2. If n is odd, subtract 1. Repeat.
 
